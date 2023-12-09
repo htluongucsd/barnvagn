@@ -88,6 +88,8 @@ p{
     padding-left: 12px;
     margin-top: 0;
     font-size: 1.5rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 /* centers anything */
@@ -129,6 +131,7 @@ i{
     border-color: #FFFFFF;
     box-shadow: 1px 1px 8px #9a9a9a;
     padding-bottom: 10px;
+    border-radius: 20px;
 
 }
 
