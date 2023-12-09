@@ -333,6 +333,7 @@ i{
     width: 120px;
     display: inline;
     margin-bottom: 15px;
+    font-size: 18px;
 }
 
 .overlaycancel {
@@ -344,4 +345,9 @@ i{
     width: 120px;
     display: inline;
     margin-bottom: 15px;
+    font-size: 18px;
+}
+
+@media (max-width: 1028px){
+
 }
